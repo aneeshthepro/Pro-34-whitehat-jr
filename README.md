@@ -1,1 +1,2 @@
-# Pro-34-whitehat-jr
+# Kill-the-monster
+This is my WhiteHat Jr. project
